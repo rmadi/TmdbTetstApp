@@ -1,0 +1,25 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "retry": "Retry",
+    "favorites": "Favorites"
+  },
+  "auth": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "logout": "Logout"
+  },
+  "movies": {
+    "popular": "Popular Movies",
+    "search": "Search Movies",
+    "details": "Movie Details",
+    "rating": "Rating",
+    "releaseDate": "Release Date",
+    "overview": "Overview",
+    "genres": "Genres",
+    "noResults": "No movies found"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "common": {
+    "ok": "ठीक है",
+    "cancel": "रद्द करें",
+    "loading": "लोड हो रहा है...",
+    "retry": "पुनः प्रयास करें",
+    "favorites": "पसंदीदा"
+  },
+  "auth": {
+    "login": "लॉग इन",
+    "username": "उपयोगकर्ता नाम",
+    "password": "पासवर्ड",
+    "logout": "लॉग आउट",
+    "loginError": "लॉगिन असफल। कृपया अपनी जानकारी जांचें।"
+  },
+  "home": {
+    "welcomeBack": "वापसी पर स्वागत है"
+  },
+  "movies": {
+    "popular": "लोकप्रिय फ़िल्में",
+    "topPicks": "शीर्ष फ़िल्में",
+    "upcoming": "आगामी फ़िल्में",
+    "search": "फ़िल्में खोजें",
+    "details": "फ़िल्म विवरण",
+    "rating": "रेटिंग",
+    "releaseDate": "रिलीज़ तिथि",
+    "overview": "सारांश",
+    "genres": "शैलियाँ",
+    "addToWatchlist": "वॉचलिस्ट में जोड़ें",
+    "noMovies": "दिखाने के लिए कोई फ़िल्म नहीं",
+    "noResults": "कोई फ़िल्म नहीं मिली",
+    "duration3h": "3 घंटे",
+    "mockGenres": "थ्रिलर • ड्रामा • मिस्ट्री",
+    "detailsHeader": "फ़िल्म विवरण",
+    "overallRating": "कुल रेटिंग",
+    "yourRating": "आपकी रेटिंग",
+    "cast": "कलाकार",
+    "writer": "लेखक",
+    "director": "निर्देशक",
+    "seeAll": "सभी देखें",
+    "watchTrailer": "ट्रेलर देखें",
+    "noFavorites": "अभी तक कोई पसंदीदा फ़िल्म नहीं है"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "english": "अंग्रेज़ी",
+    "hindi": "हिंदी"
+  }
+}

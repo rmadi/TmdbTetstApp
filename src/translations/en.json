@@ -1,0 +1,50 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "retry": "Retry",
+    "favorites": "Favorites"
+  },
+  "auth": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "logout": "Logout",
+    "loginError": "Login failed. Please check your credentials."
+  },
+  "home": {
+    "welcomeBack": "Welcome Back"
+  },
+  "movies": {
+    "popular": "Popular Movies",
+    "topPicks": "Top Movie Picks",
+    "upcoming": "Upcoming Movies",
+    "search": "Search Movies",
+    "details": "Movie Details",
+    "rating": "Rating",
+    "releaseDate": "Release Date",
+    "overview": "Overview",
+    "genres": "Genres",
+    "addToWatchlist": "Add To Watchlist",
+    "noMovies": "No movies to show",
+    "noResults": "No movies found",
+    "duration3h": "3 hour",
+    "mockGenres": "Thriller • Drama • Mystery",
+    "detailsHeader": "Movie Details",
+    "overallRating": "Overall Rating",
+    "yourRating": "Your Rating",
+    "cast": "Cast",
+    "writer": "Writer",
+    "director": "Director",
+    "seeAll": "See All",
+    "watchTrailer": "Watch Trailer",
+    "noFavorites": "No favorite movies yet"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "english": "English",
+    "hindi": "Hindi"
+  }
+}
