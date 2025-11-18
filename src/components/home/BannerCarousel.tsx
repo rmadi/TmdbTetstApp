@@ -34,7 +34,7 @@ export default function BannerCarousel({
   };
 
   if (loading) return <Fallback />;
-  if (error) return <ErrorFetch  />;
+  if (error) return <ErrorFetch  onRetry={()=> {}} />;
 
   if (!movies.length) {
     return <ListEmpty message="No movies to show." />;
